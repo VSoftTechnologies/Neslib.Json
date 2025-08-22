@@ -13,3 +13,6 @@ Entitlement.TemplateiOS.xml eol=lf
 
 # customize language stats
 *.inc linguist-language=Pascal
+
+
+*.dspec filter=insert-hash
